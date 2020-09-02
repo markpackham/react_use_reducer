@@ -31,7 +31,8 @@ export default function App() {
   return (
     <>
       <h1>
-        useReducer learned from https://www.youtube.com/watch?v=kK_Wqx3RnHk
+        useReducer Part 1 learned from
+        https://www.youtube.com/watch?v=kK_Wqx3RnHk
       </h1>
       <button onClick={decrement}>-</button>
       <span>{state.count}</span>
